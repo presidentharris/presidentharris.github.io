@@ -19,6 +19,7 @@ html, body {
   outline: 0;
 }
 ul {
+    position: absolute;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -32,4 +33,5 @@ li {
 li a {
     display: block;
     padding: 8px;
+    color: #ffffff;
 }
