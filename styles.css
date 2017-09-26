@@ -33,5 +33,6 @@ li {
 li a {
     display: block;
     padding: 8px;
-    color: #000000;
+    color: black;
+    background-color: white;
 }
