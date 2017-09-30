@@ -99,6 +99,10 @@ input[type=submit]:hover {
     border-radius: 45px;
     background-color: #aaaaaa;//#b36ae1;
     padding: 30px;
+    width: 50%;
+    position: absolute;
+    top: 15%;
+    left: 25%;
 }
 form ul li{
   color: #ffffff; //#aaaaaa;
