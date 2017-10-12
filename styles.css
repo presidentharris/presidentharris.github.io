@@ -18,7 +18,7 @@ html, body {
   border: 0;
   outline: 0;
 }
-ul {
+.menu {
     position: absolute;
     list-style-type: none;
     top: 0; 
