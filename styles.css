@@ -18,6 +18,14 @@ html, body {
   border: 0;
   outline: 0;
 }
+h2 {
+  position: absolute;
+  top: 0;
+  left: 25%;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
 .menu {
     position: absolute;
     list-style-type: none;
