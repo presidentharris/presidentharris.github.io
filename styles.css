@@ -18,14 +18,24 @@ html, body {
   border: 0;
   outline: 0;
 }
-h2 {
+.appform {
   position: absolute;
   top: 2%;
+  left: 35%;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.contact {
+  position: absolute;
+  top: 7%;
   left: 25%;
   font-size: 40px;
   font-family: Arial, Helvetica, sans-serif;
   color: white;
 }
+
 .menu {
     position: absolute;
     list-style-type: none;
@@ -134,7 +144,7 @@ input[type=submit]:hover {
     padding: 30px;
     width: 65%;
     position: absolute;
-    top: 10%;
+    top: 15%;
     left: 17%;
 }
 
