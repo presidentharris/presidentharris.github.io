@@ -124,9 +124,20 @@ input[type=submit]:hover {
     padding: 30px;
     width: 50%;
     position: absolute;
-    top: 5%;
+    top: 10%;
     left: 25%;
 }
+
+.container2 {
+    border-radius: 45px;
+    background-color: #aaaaaa;//#b36ae1;
+    padding: 30px;
+    width: 65%;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+}
+
 form ul li{
   color: #ffffff; //#aaaaaa;
   display: block;
