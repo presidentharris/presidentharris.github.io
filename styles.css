@@ -199,7 +199,7 @@ form ul li .check{
 }
 
 form ul li:hover .check {
-  border: 8px solid #b36ae1; //#0DFF92;//#FFFFFF;
+  border: 5px solid #b36ae1; //#0DFF92;//#FFFFFF;
 }
 
 form ul li .check::before {
